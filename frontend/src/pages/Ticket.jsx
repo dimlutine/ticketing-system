@@ -12,7 +12,8 @@ import { FaPlus } from 'react-icons/fa';
 
 const customStyles = {
   content: {
-    width: '600px',
+    // width: '600px',
+    width: '80%',
     top: '50%',
     left: '50%',
     right: 'auto',
