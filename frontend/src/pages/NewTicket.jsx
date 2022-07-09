@@ -70,6 +70,9 @@ function NewTicket() {
             <option value='Macbook Pro'>Macbook Pro</option>
             <option value='iMac'>iMac</option>
             <option value='iPad'>iPad</option>
+            <option value='PC'>PC</option>
+            <option value='Android Phone'>Android Phone</option>
+            <option value='Android Tablet'>Android Tablet</option>
           </select>
         </div>
         <div className='form-group'>
